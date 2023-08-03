@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Exercise1 from './exercise/Exercise1';
+import Exercise2 from './exercise/Exercise2';
 function App() {
   
   return (
     <div>
-     <Exercise1/>
+     <Exercise2 />
     </div>
     
   );
